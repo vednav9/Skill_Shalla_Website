@@ -62,14 +62,3 @@ Explore the live version: [ss-admin.infinityfreeapp.com](https://ss-admin.infini
 - **Modular setup** with `includes/` for reusable components
 
 ---
-
-## 🛠️ Ideas for Improvement
-
-- ✅ Add **student user registration/login**  
-- 🎓 Build **course enrollment and progress tracking**  
-- 📧 Send **email notifications** on new inquiries or enrollments  
-- 🔍 Add **search and filtering** functionality on the Courses page  
-- 🔄 Refactor using **PHP MVC** or a framework like **Laravel**  
-- 🔒 Switch DB layer to **PDO** for better security and flexibility
-
----
