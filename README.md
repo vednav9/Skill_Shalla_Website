@@ -52,17 +52,6 @@ Explore the live version: [ss-admin.infinityfreeapp.com](https://ss-admin.infini
    - Local: copy to htdocs or equivalent and navigate to http://localhost/...
    - Live: upload to InfinityFree via FTP or file manager.
 
-Skill_Shalla_Website/
-│
-├── assets/ # CSS, JS, and images
-├── includes/ # common includes: header, footer, DB connection
-├── public/ # frontend pages: index.php, about.php, courses.php, contact.php
-├── admin/ # admin panel scripts & UI
-├── config.php # database and site configuration
-├── database/
-│ └── schema.sql # database schema and seed data
-└── README.md # this documentation
-
 
 ## ✨ Key Features
 
