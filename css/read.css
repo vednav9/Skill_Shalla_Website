@@ -1,0 +1,40 @@
+.modal-backdrop.show {
+   opacity: none;
+}
+
+.navbar .i1 .icons {
+   font-family: Nunito, sans-serif;
+   box-sizing: border-box;
+   margin: 0px;
+   padding: 0px;
+   outline: none;
+   border-width: initial;
+   border-color: initial;
+   text-decoration: none;
+}
+
+.navbar .i1 .icons div {
+   font-size: 2rem;
+   color: var(--black);
+   background-color: var(--light-bg);
+   height: 2rem;
+   width: 2rem;
+   line-height: 2rem;
+   cursor: pointer;
+   text-align: center;
+   margin-left: 0.7rem;
+   border-radius: 0.5rem;
+}
+
+.navbar .i1 .icons div:hover {
+   background-color: var(--black);
+   color: var(--white);
+}
+
+.offcanvas .offcanvas-body .sidebar-nav .a {
+   display: flex;
+
+   padding: 2rem;
+   font-size: 2rem;
+   color: var(--light-color);
+}

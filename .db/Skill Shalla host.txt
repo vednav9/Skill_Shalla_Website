@@ -1,0 +1,9 @@
+ss-admin | if0_38606148
+
+Skill-Shalla
+
+MLJ63GlIQ8
+
+
+MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+if0_38606148_auth_db	if0_38606148	(Your vPanel Password)	sql307.infinityfree.com
